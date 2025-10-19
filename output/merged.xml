@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 19 Oct 2025 11:37:39 GMT</lastBuildDate>
+<lastBuildDate>Sun, 19 Oct 2025 12:36:20 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Israeli military launches attack on Gaza]]></title>
+<link>https://bdnews24.com/world/3b0bde00bf62</link>
+<pubDate>Sun, 19 Oct 2025 12:36:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[US returning Caribbean strike survivors to Colombia,Ecuador : Trump]]></title>
 <link>https://bdnews24.com/world/fad9d6621a3d</link>
@@ -23,15 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan, Afghanistan hold peace talks in Doha]]></title>
-<link>https://bdnews24.com/world/4488d03b366a</link>
-<pubDate>Sat, 18 Oct 2025 16:06:38 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Hungary to ensure Putin can enter country for Trump meeting]]></title>
-<link>https://bdnews24.com/world/europe/791dfc9021ed</link>
-<pubDate>Sat, 18 Oct 2025 06:26:59 -0000</pubDate>
+<title><![CDATA[Thieves steal "inestimable" jewels from Louvre in Paris]]></title>
+<link>https://bdnews24.com/world/a44fe170c944</link>
+<pubDate>Sun, 19 Oct 2025 12:36:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,6 +44,12 @@
 <title><![CDATA[Pakistan, Afghanistan agree to immediate ceasefire after Doha talks]]></title>
 <link>https://bdnews24.com/world/south-asia/1ad10afcb8d0</link>
 <pubDate>Sun, 19 Oct 2025 04:12:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan, Afghanistan hold peace talks in Doha]]></title>
+<link>https://bdnews24.com/world/4488d03b366a</link>
+<pubDate>Sat, 18 Oct 2025 15:01:50 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
