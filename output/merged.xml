@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 21 Oct 2025 06:51:45 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Oct 2025 07:20:12 GMT</lastBuildDate>
 <item>
 <title><![CDATA[France ex-president Sarkozy begins 5-year jail term]]></title>
 <link>https://bdnews24.com/world/europe/bdb4c26dff98</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[India expects $7.4bn jet engine bill over 10 years]]></title>
+<link>https://bdnews24.com/world/e4f7897f79b6</link>
+<pubDate>Tue, 21 Oct 2025 07:01:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[7 Pakistani troops killed near Afghan border]]></title>
 <link>https://bdnews24.com/neighbours/fe0318b7a613</link>
 <pubDate>Fri, 17 Oct 2025 14:50:16 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[Gold smuggling surges in India]]></title>
 <link>https://bdnews24.com/neighbours/e87ef4c6c320</link>
 <pubDate>Thu, 16 Oct 2025 15:46:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India scraps tax exemption on imports of missile parts]]></title>
-<link>https://bdnews24.com/neighbours/8c87252abb0a</link>
-<pubDate>Thu, 16 Oct 2025 11:47:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
