@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 23 Oct 2025 07:39:10 GMT</lastBuildDate>
+<lastBuildDate>Thu, 23 Oct 2025 08:28:19 GMT</lastBuildDate>
+<item>
+<title><![CDATA[A cautious opening to tourists in Taiwan’s frontline with China]]></title>
+<link>https://bdnews24.com/world/a9d5fb9f4343</link>
+<pubDate>Thu, 23 Oct 2025 08:27:57 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[4 die in blast at Russia plant: governor]]></title>
 <link>https://bdnews24.com/world/eb722c088935</link>
@@ -25,7 +31,7 @@
 <item>
 <title><![CDATA[Canada plans to shrink US reliance]]></title>
 <link>https://bdnews24.com/world/c024477b8313</link>
-<pubDate>Thu, 23 Oct 2025 04:08:23 -0000</pubDate>
+<pubDate>Thu, 23 Oct 2025 04:08:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,15 +47,33 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Pakistan, Afghanistan hold peace talks in Doha]]></title>
-<link>https://bdnews24.com/world/4488d03b366a</link>
-<pubDate>Sat, 18 Oct 2025 15:01:50 -0000</pubDate>
+<title><![CDATA[Thailand, Cambodia progress towards peace deal: Thai minister]]></title>
+<link>https://bdnews24.com/world/south-east-asia/2a59770f449d</link>
+<pubDate>Thu, 23 Oct 2025 08:28:06 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[A cautious opening to tourists in Taiwan’s frontline with China]]></title>
-<link>https://bdnews24.com/world/a9d5fb9f4343</link>
-<pubDate>Thu, 23 Oct 2025 05:26:13 -0000</pubDate>
+<title><![CDATA[Delhi air quality at 'hazardous' levels after Diwali]]></title>
+<link>https://bdnews24.com/neighbours/585968064954</link>
+<pubDate>Wed, 22 Oct 2025 19:38:15 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[India expects $7.4bn jet engine bill over 10 years]]></title>
+<link>https://bdnews24.com/world/e4f7897f79b6</link>
+<pubDate>Tue, 21 Oct 2025 07:01:58 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[7 Pakistani troops killed near Afghan border]]></title>
+<link>https://bdnews24.com/neighbours/fe0318b7a613</link>
+<pubDate>Fri, 17 Oct 2025 14:50:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Modi faces tough Bihar state election]]></title>
+<link>https://bdnews24.com/neighbours/5af9ca06d569</link>
+<pubDate>Fri, 17 Oct 2025 12:47:08 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
