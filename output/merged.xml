@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 24 Oct 2025 09:40:49 GMT</lastBuildDate>
+<lastBuildDate>Fri, 24 Oct 2025 10:22:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[EU vows financial backing for Kyiv]]></title>
 <link>https://bdnews24.com/world/europe/664ecf26d93d</link>
@@ -26,6 +26,12 @@
 <title><![CDATA[All trade talks with Canada terminated: Trump]]></title>
 <link>https://bdnews24.com/world/americas/83a829f0cafd</link>
 <pubDate>Fri, 24 Oct 2025 05:06:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[UK businesses show tentative signs of a turnaround: survey]]></title>
+<link>https://bdnews24.com/world/europe/71f4ea5d02c4</link>
+<pubDate>Fri, 24 Oct 2025 10:22:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,6 +59,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[India won't rush into trade deals: trade minister]]></title>
+<link>https://bdnews24.com/neighbours/600e3d303466</link>
+<pubDate>Fri, 24 Oct 2025 10:10:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[25 die in India bus fire]]></title>
+<link>https://bdnews24.com/neighbours/959a9211aab0</link>
+<pubDate>Fri, 24 Oct 2025 09:55:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[India proposes strict rules to label AI content]]></title>
 <link>https://bdnews24.com/neighbours/f95e3b2d22cd</link>
 <pubDate>Fri, 24 Oct 2025 05:18:55 -0000</pubDate>
@@ -62,18 +80,6 @@
 <title><![CDATA[Delhi air quality at 'hazardous' levels after Diwali]]></title>
 <link>https://bdnews24.com/neighbours/585968064954</link>
 <pubDate>Wed, 22 Oct 2025 19:38:15 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India expects $7.4bn jet engine bill over 10 years]]></title>
-<link>https://bdnews24.com/world/e4f7897f79b6</link>
-<pubDate>Tue, 21 Oct 2025 07:01:58 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[7 Pakistani troops killed near Afghan border]]></title>
-<link>https://bdnews24.com/neighbours/fe0318b7a613</link>
-<pubDate>Fri, 17 Oct 2025 14:50:16 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
