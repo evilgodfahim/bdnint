@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Oct 2025 17:37:34 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Oct 2025 18:25:45 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump open to cutting Brazil tariffs under right conditions]]></title>
 <link>https://bdnews24.com/world/a1c9c01ab181</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Hobbled by US tariffs, carpet weavers in Kashmir struggle to stay afloat]]></title>
+<link>https://bdnews24.com/neighbours/216d1affc729</link>
+<pubDate>Sat, 25 Oct 2025 18:24:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[India won't rush into trade deals: trade minister]]></title>
 <link>https://bdnews24.com/neighbours/600e3d303466</link>
 <pubDate>Fri, 24 Oct 2025 10:10:42 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[India proposes strict rules to label AI content]]></title>
 <link>https://bdnews24.com/neighbours/f95e3b2d22cd</link>
 <pubDate>Fri, 24 Oct 2025 05:18:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Delhi air quality at 'hazardous' levels after Diwali]]></title>
-<link>https://bdnews24.com/neighbours/585968064954</link>
-<pubDate>Wed, 22 Oct 2025 19:38:15 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
