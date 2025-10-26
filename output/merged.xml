@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 26 Oct 2025 20:20:33 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Oct 2025 20:40:02 GMT</lastBuildDate>
+<item>
+<title><![CDATA[German FM to meet India's Goyal, Rutte after China trip delay]]></title>
+<link>https://bdnews24.com/world/048780ed8407</link>
+<pubDate>Sun, 26 Oct 2025 20:33:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Russia detains over 80 after Moscow street fight]]></title>
 <link>https://bdnews24.com/world/7840b543bec1</link>
@@ -23,12 +29,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Sudan's RSF captures al-Fashir army HQ]]></title>
-<link>https://bdnews24.com/world/c1ddb65cd4ef</link>
-<pubDate>Sun, 26 Oct 2025 14:39:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Suspects in Louvre jewel heist arrested: prosecutor]]></title>
 <link>https://bdnews24.com/world/europe/a67e58e3c46a</link>
 <pubDate>Sun, 26 Oct 2025 15:47:35 -0000</pubDate>
@@ -38,6 +38,12 @@
 <title><![CDATA[Ontario premier provokes Trump's ire with Reagan ad]]></title>
 <link>https://bdnews24.com/world/78534078860f</link>
 <pubDate>Sun, 26 Oct 2025 04:06:34 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Sudan's RSF captures al-Fashir army HQ]]></title>
+<link>https://bdnews24.com/world/c1ddb65cd4ef</link>
+<pubDate>Sun, 26 Oct 2025 14:39:20 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
