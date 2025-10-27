@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 27 Oct 2025 04:49:26 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Oct 2025 05:21:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Trump strikes deals on trade, minerals in Southeast Asia]]></title>
 <link>https://bdnews24.com/world/48843a1758d4</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[234 smartphones turned Andhra bus fire deadly: NDTV]]></title>
+<link>https://bdnews24.com/world/2d8a2c3bccaf</link>
+<pubDate>Mon, 27 Oct 2025 04:53:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Musharraf ‘handed Pakistan’s nukes to US’: ex-CIA officer]]></title>
 <link>https://bdnews24.com/world/2443dc96ed62</link>
 <pubDate>Sat, 25 Oct 2025 21:27:00 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[India won't rush into trade deals: trade minister]]></title>
 <link>https://bdnews24.com/neighbours/600e3d303466</link>
 <pubDate>Fri, 24 Oct 2025 10:10:42 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[25 die in India bus fire]]></title>
-<link>https://bdnews24.com/neighbours/959a9211aab0</link>
-<pubDate>Fri, 24 Oct 2025 09:55:42 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
