@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 28 Oct 2025 19:16:20 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Oct 2025 19:37:44 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Israel strikes Gaza City after Netanyahu orders strong attacks]]></title>
 <link>https://bdnews24.com/world/middle-east/242062efd547</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Delhi turns to cloud seeding to spur rain]]></title>
+<link>https://bdnews24.com/environment/4a6c5e8ce6ce</link>
+<pubDate>Tue, 28 Oct 2025 19:37:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Monsoon promise turns sour for India crops]]></title>
 <link>https://bdnews24.com/world/1bccd9e82221</link>
 <pubDate>Tue, 28 Oct 2025 12:41:11 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[Two climbers die in Ama Dablam expeditions in Nepal]]></title>
 <link>https://bdnews24.com/neighbours/b744242cc82f</link>
 <pubDate>Mon, 27 Oct 2025 22:18:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[234 smartphones turned Andhra bus fire deadly: NDTV]]></title>
-<link>https://bdnews24.com/world/2d8a2c3bccaf</link>
-<pubDate>Mon, 27 Oct 2025 04:53:55 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
