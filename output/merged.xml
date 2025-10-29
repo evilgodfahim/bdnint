@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 29 Oct 2025 04:34:02 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Oct 2025 05:20:40 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Peace talks with Afghanistan failed: Pakistan minister]]></title>
+<link>https://bdnews24.com/neighbours/b94b97d13f9a</link>
+<pubDate>Wed, 29 Oct 2025 05:20:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Gaza ceasefire holds: Trump]]></title>
 <link>https://bdnews24.com/world/middle-east/12718d296d28</link>
@@ -20,12 +26,6 @@
 <title><![CDATA[Israel strikes Gaza after accusing Hamas of violating ceasefire]]></title>
 <link>https://bdnews24.com/world/553db9c56df2</link>
 <pubDate>Wed, 29 Oct 2025 03:15:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Rio police raids kill 64]]></title>
-<link>https://bdnews24.com/world/dad3781bf24f</link>
-<pubDate>Wed, 29 Oct 2025 03:00:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pakistani woman challenges ‘period tax’ in court]]></title>
+<link>https://bdnews24.com/neighbours/39f6227871aa</link>
+<pubDate>Wed, 29 Oct 2025 05:05:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Delhi turns to cloud seeding to spur rain]]></title>
 <link>https://bdnews24.com/environment/4a6c5e8ce6ce</link>
 <pubDate>Tue, 28 Oct 2025 19:37:44 -0000</pubDate>
@@ -74,18 +80,6 @@
 <title><![CDATA[Monsoon promise turns sour for India crops]]></title>
 <link>https://bdnews24.com/world/1bccd9e82221</link>
 <pubDate>Tue, 28 Oct 2025 12:41:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Kant to be next chief justice of India]]></title>
-<link>https://bdnews24.com/neighbours/dc9c0b5ea502</link>
-<pubDate>Tue, 28 Oct 2025 07:31:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Two climbers die in Ama Dablam expeditions in Nepal]]></title>
-<link>https://bdnews24.com/neighbours/b744242cc82f</link>
-<pubDate>Mon, 27 Oct 2025 22:18:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
