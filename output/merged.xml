@@ -3,11 +3,11 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 29 Oct 2025 19:37:41 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Oct 2025 20:22:48 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Hurricane Melissa, Jamaica’s strongest storm, heads to Cuba]]></title>
+<title><![CDATA[Hurricane Melissa roars through Cuba]]></title>
 <link>https://bdnews24.com/world/2147cb24f97e</link>
-<pubDate>Wed, 29 Oct 2025 17:42:31 -0000</pubDate>
+<pubDate>Wed, 29 Oct 2025 20:10:05 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +80,6 @@
 <title><![CDATA[Pakistani woman challenges ‘period tax’ in court]]></title>
 <link>https://bdnews24.com/neighbours/39f6227871aa</link>
 <pubDate>Wed, 29 Oct 2025 05:05:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Delhi turns to cloud seeding to spur rain]]></title>
-<link>https://bdnews24.com/environment/4a6c5e8ce6ce</link>
-<pubDate>Tue, 28 Oct 2025 19:37:44 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
