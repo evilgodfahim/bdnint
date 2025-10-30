@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 30 Oct 2025 17:18:04 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Oct 2025 17:41:45 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Teenager dies during Jerusalem protest]]></title>
+<link>https://bdnews24.com/world/75783356b5e8</link>
+<pubDate>Thu, 30 Oct 2025 17:41:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Hamas to hand over bodies of 2 Israeli hostages]]></title>
 <link>https://bdnews24.com/world/middle-east/9743e11d7588</link>
@@ -20,12 +26,6 @@
 <title><![CDATA[China to buy 12mn metric tonnes of soybeans: Bessent]]></title>
 <link>https://bdnews24.com/world/e2abcfef6101</link>
 <pubDate>Thu, 30 Oct 2025 15:58:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Afghanista, Pakistan restart peace talks in Istanbul]]></title>
-<link>https://bdnews24.com/world/a4385fba8566</link>
-<pubDate>Thu, 30 Oct 2025 14:58:32 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,6 +47,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Afghanista, Pakistan restart peace talks in Istanbul]]></title>
+<link>https://bdnews24.com/world/a4385fba8566</link>
+<pubDate>Thu, 30 Oct 2025 14:44:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Afghanistan, Pakistan agree to restart peace talks in Istanbul]]></title>
 <link>https://bdnews24.com/world/south-east-asia/02db28a3ec10</link>
 <pubDate>Thu, 30 Oct 2025 08:11:54 -0000</pubDate>
@@ -56,6 +62,12 @@
 <title><![CDATA[UK, Vietnam reach deal on curbing illegal migration]]></title>
 <link>https://bdnews24.com/world/f2f26360cc4f</link>
 <pubDate>Thu, 30 Oct 2025 03:53:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[6 Pakistani soldiers killed near Afghan border]]></title>
+<link>https://bdnews24.com/neighbours/de26cafe04a9</link>
+<pubDate>Thu, 30 Oct 2025 17:41:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -74,12 +86,6 @@
 <title><![CDATA[Peace talks with Afghanistan failed: Pakistan minister]]></title>
 <link>https://bdnews24.com/neighbours/b94b97d13f9a</link>
 <pubDate>Wed, 29 Oct 2025 05:20:24 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistani woman challenges ‘period tax’ in court]]></title>
-<link>https://bdnews24.com/neighbours/39f6227871aa</link>
-<pubDate>Wed, 29 Oct 2025 05:05:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
