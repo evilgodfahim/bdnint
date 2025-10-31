@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 31 Oct 2025 03:54:49 GMT</lastBuildDate>
+<lastBuildDate>Fri, 31 Oct 2025 04:24:44 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia strikes Ukraine energy grid, killing 7]]></title>
 <link>https://bdnews24.com/world/europe/fbf9b50aeebb</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[17 children rescued as Mumbai ‘hostage-taker’ shot dead]]></title>
+<link>https://bdnews24.com/neighbours/b9c4ee2b9108</link>
+<pubDate>Fri, 31 Oct 2025 04:24:43 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[6 Pakistani soldiers killed near Afghan border]]></title>
 <link>https://bdnews24.com/neighbours/de26cafe04a9</link>
 <pubDate>Thu, 30 Oct 2025 17:41:45 -0000</pubDate>
@@ -68,12 +74,6 @@
 <title><![CDATA[One dies as Montha lashes India's east coast]]></title>
 <link>https://bdnews24.com/neighbours/f6ec4af0573d</link>
 <pubDate>Wed, 29 Oct 2025 15:23:16 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Peace talks with Afghanistan failed: Pakistan minister]]></title>
-<link>https://bdnews24.com/neighbours/b94b97d13f9a</link>
-<pubDate>Wed, 29 Oct 2025 05:20:24 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
