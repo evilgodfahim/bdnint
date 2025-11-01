@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 01 Nov 2025 19:37:35 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Nov 2025 20:18:52 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Sharaa to visit Washington: US envoy]]></title>
 <link>https://bdnews24.com/world/12c4ff0e4340</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[‘Poor governance’ behind South Asia’s regime changes, says Doval]]></title>
+<link>https://bdnews24.com/neighbours/d820af2ee616</link>
+<pubDate>Sat, 01 Nov 2025 20:18:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[12 killed in stampede at Andhra Pradesh temple]]></title>
 <link>https://bdnews24.com/neighbours/8733755e60cc</link>
 <pubDate>Sat, 01 Nov 2025 12:36:35 -0000</pubDate>
@@ -74,12 +80,6 @@
 <title><![CDATA[17 children rescued as Mumbai ‘hostage-taker’ shot dead]]></title>
 <link>https://bdnews24.com/neighbours/b9c4ee2b9108</link>
 <pubDate>Fri, 31 Oct 2025 04:24:43 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[6 Pakistani soldiers killed near Afghan border]]></title>
-<link>https://bdnews24.com/neighbours/de26cafe04a9</link>
-<pubDate>Thu, 30 Oct 2025 17:41:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
