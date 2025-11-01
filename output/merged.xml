@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 01 Nov 2025 11:37:32 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Nov 2025 12:36:35 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Carney apologises to Trump over Reagan ad]]></title>
 <link>https://bdnews24.com/world/9fbd155405fc</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[12 killed in stampede at Andhra Pradesh temple]]></title>
+<link>https://bdnews24.com/neighbours/8733755e60cc</link>
+<pubDate>Sat, 01 Nov 2025 12:36:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistan, Afghanistan agree to continue ceasefire: Turkey]]></title>
 <link>https://bdnews24.com/neighbours/907ad0b56920</link>
 <pubDate>Sat, 01 Nov 2025 09:47:26 -0000</pubDate>
@@ -74,12 +80,6 @@
 <title><![CDATA[6 Pakistani soldiers killed near Afghan border]]></title>
 <link>https://bdnews24.com/neighbours/de26cafe04a9</link>
 <pubDate>Thu, 30 Oct 2025 17:41:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India plans return of 500 nationals from Myanmar]]></title>
-<link>https://bdnews24.com/world/f125fe5fd1d6</link>
-<pubDate>Wed, 29 Oct 2025 20:14:48 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
