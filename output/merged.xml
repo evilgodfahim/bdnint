@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 02 Nov 2025 15:37:33 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Nov 2025 16:21:28 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Ukrainian drone strike hits key Russian oil port]]></title>
 <link>https://bdnews24.com/world/a8a8c8f4a1de</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Indus treaty halt puts Pakistan at severe risk: ETR]]></title>
+<link>https://bdnews24.com/neighbours/99433607ad1d</link>
+<pubDate>Sun, 02 Nov 2025 16:21:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[‘Poor governance’ behind South Asia’s regime changes, says Doval]]></title>
 <link>https://bdnews24.com/neighbours/d820af2ee616</link>
 <pubDate>Sat, 01 Nov 2025 20:18:52 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[Pakistan, Afghanistan agree to continue ceasefire: Turkey]]></title>
 <link>https://bdnews24.com/neighbours/907ad0b56920</link>
 <pubDate>Sat, 01 Nov 2025 09:47:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[17 children rescued as Mumbai ‘hostage-taker’ shot dead]]></title>
-<link>https://bdnews24.com/neighbours/b9c4ee2b9108</link>
-<pubDate>Fri, 31 Oct 2025 04:24:43 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
