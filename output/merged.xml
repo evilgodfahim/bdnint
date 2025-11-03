@@ -3,7 +3,19 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 03 Nov 2025 04:01:18 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Nov 2025 04:48:28 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Trump says no Tomahawks for Ukraine, for now]]></title>
+<link>https://bdnews24.com/world/8f10fd64ed99</link>
+<pubDate>Mon, 03 Nov 2025 04:48:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hamas to hand over 3 more hostage bodies]]></title>
+<link>https://bdnews24.com/world/middle-east/f3d8f4f43a0b</link>
+<pubDate>Mon, 03 Nov 2025 04:33:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Kenya landslide death toll rises to 26]]></title>
 <link>https://bdnews24.com/world/africa/698ad53f4231</link>
@@ -14,18 +26,6 @@
 <title><![CDATA[US anti-insurgent aid must respect sovereignty: Nigeria]]></title>
 <link>https://bdnews24.com/world/africa/74befcdea68d</link>
 <pubDate>Sun, 02 Nov 2025 18:28:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russian attacks on Ukraine kill two]]></title>
-<link>https://bdnews24.com/world/3b92f9b1bc7d</link>
-<pubDate>Sun, 02 Nov 2025 17:37:57 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Ukrainian drone strike hits key Russian oil port]]></title>
-<link>https://bdnews24.com/world/a8a8c8f4a1de</link>
-<pubDate>Sun, 02 Nov 2025 15:17:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,9 +41,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Singapore police seize assets tied to Prince Group]]></title>
-<link>https://bdnews24.com/world/south-asia/1b4226d23d57</link>
-<pubDate>Fri, 31 Oct 2025 06:30:23 -0000</pubDate>
+<title><![CDATA[6.3 quake in Northern Afghanistan kills at least 7]]></title>
+<link>https://bdnews24.com/world/south-asia/31fbfdc053c7</link>
+<pubDate>Mon, 03 Nov 2025 04:14:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -56,6 +56,12 @@
 <title><![CDATA[Asia-Pacific leaders call for shared trade at APEC summit]]></title>
 <link>https://bdnews24.com/world/asia-pacific/dff55b137ea1</link>
 <pubDate>Sat, 01 Nov 2025 19:15:29 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[India launches first heavy satellite aboard ‘Bahubali’ rocket]]></title>
+<link>https://bdnews24.com/neighbours/26436d2a3e71</link>
+<pubDate>Mon, 03 Nov 2025 04:33:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -74,12 +80,6 @@
 <title><![CDATA[12 killed in stampede at Andhra Pradesh temple]]></title>
 <link>https://bdnews24.com/neighbours/8733755e60cc</link>
 <pubDate>Sat, 01 Nov 2025 12:36:35 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan, Afghanistan agree to continue ceasefire: Turkey]]></title>
-<link>https://bdnews24.com/neighbours/907ad0b56920</link>
-<pubDate>Sat, 01 Nov 2025 09:47:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
