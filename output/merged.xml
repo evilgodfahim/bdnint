@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 04 Nov 2025 15:43:37 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 Nov 2025 16:24:52 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Powerful former US vice-president Dick Cheney dies]]></title>
 <link>https://bdnews24.com/people/e91080666e2a</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pakistan eyes 2026 launch for first Chinese sub in $5bn arms deal]]></title>
+<link>https://bdnews24.com/neighbours/6e1c268920dc</link>
+<pubDate>Tue, 04 Nov 2025 16:24:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[India launches first heavy satellite aboard ‘Bahubali’ rocket]]></title>
 <link>https://bdnews24.com/neighbours/26436d2a3e71</link>
 <pubDate>Mon, 03 Nov 2025 04:33:09 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[‘Poor governance’ behind South Asia’s regime changes, says Doval]]></title>
 <link>https://bdnews24.com/neighbours/d820af2ee616</link>
 <pubDate>Sat, 01 Nov 2025 20:18:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[12 killed in stampede at Andhra Pradesh temple]]></title>
-<link>https://bdnews24.com/neighbours/8733755e60cc</link>
-<pubDate>Sat, 01 Nov 2025 12:36:35 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
