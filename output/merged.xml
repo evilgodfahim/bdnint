@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 05 Nov 2025 21:18:46 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Nov 2025 21:37:56 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Mamdani win fires up Europe’s left against right]]></title>
+<link>https://bdnews24.com/world/313fda77b5fb</link>
+<pubDate>Wed, 05 Nov 2025 21:37:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Russia, Ukraine locked in fierce fighting in Pokrovsk]]></title>
 <link>https://bdnews24.com/world/ac0d9cafb063</link>
@@ -23,12 +29,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Afghans urge Taliban to repair Blue Mosque]]></title>
-<link>https://bdnews24.com/world/south-asia/a7801e316561</link>
-<pubDate>Wed, 05 Nov 2025 15:27:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Fire at Bosnia home for the elderly kills at least 10]]></title>
 <link>https://bdnews24.com/world/europe/ddd858ad483e</link>
 <pubDate>Wed, 05 Nov 2025 05:00:13 -0000</pubDate>
@@ -44,6 +44,12 @@
 <title><![CDATA[Assailants attack tanker off Somalia]]></title>
 <link>https://bdnews24.com/world/africa/5b875c5c4cb6</link>
 <pubDate>Mon, 03 Nov 2025 16:26:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Afghans urge Taliban to repair Blue Mosque]]></title>
+<link>https://bdnews24.com/world/south-asia/a7801e316561</link>
+<pubDate>Wed, 05 Nov 2025 14:06:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
