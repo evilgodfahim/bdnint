@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 07 Nov 2025 10:22:25 GMT</lastBuildDate>
+<lastBuildDate>Fri, 07 Nov 2025 10:44:22 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Several fall ill at US base after suspicious package opened]]></title>
 <link>https://bdnews24.com/world/e08483fd0cfe</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[8 killed in train collision in central India]]></title>
+<link>https://bdnews24.com/neighbours/b87302d4cf12</link>
+<pubDate>Fri, 07 Nov 2025 10:44:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistan eyes 2026 launch for first Chinese sub in $5bn arms deal]]></title>
 <link>https://bdnews24.com/neighbours/6e1c268920dc</link>
 <pubDate>Tue, 04 Nov 2025 16:24:52 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[Indus treaty halt puts Pakistan at severe risk: ETR]]></title>
 <link>https://bdnews24.com/neighbours/99433607ad1d</link>
 <pubDate>Sun, 02 Nov 2025 16:21:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[‘Poor governance’ behind South Asia’s regime changes, says Doval]]></title>
-<link>https://bdnews24.com/neighbours/d820af2ee616</link>
-<pubDate>Sat, 01 Nov 2025 20:18:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
