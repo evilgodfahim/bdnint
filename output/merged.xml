@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 07 Nov 2025 09:41:17 GMT</lastBuildDate>
+<lastBuildDate>Fri, 07 Nov 2025 10:22:25 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Several fall ill at US base after suspicious package opened]]></title>
+<link>https://bdnews24.com/world/e08483fd0cfe</link>
+<pubDate>Fri, 07 Nov 2025 10:22:24 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Trump says Kazakhstan to join Abraham Accords]]></title>
 <link>https://bdnews24.com/world/6fd7c26d5ed6</link>
@@ -23,12 +29,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Al-Fashir refugees in 'disturbing' condition]]></title>
-<link>https://bdnews24.com/world/2b4df1b20908</link>
-<pubDate>Fri, 07 Nov 2025 03:54:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Fire at Bosnia home for the elderly kills at least 10]]></title>
 <link>https://bdnews24.com/world/europe/ddd858ad483e</link>
 <pubDate>Wed, 05 Nov 2025 05:00:13 -0000</pubDate>
@@ -38,6 +38,12 @@
 <title><![CDATA[Trump acknowledges Americans are paying ‘something’ for tariffs]]></title>
 <link>https://bdnews24.com/world/americas/cd7669c4bebd</link>
 <pubDate>Fri, 07 Nov 2025 05:39:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Al-Fashir refugees in 'disturbing' condition]]></title>
+<link>https://bdnews24.com/world/2b4df1b20908</link>
+<pubDate>Thu, 06 Nov 2025 18:15:11 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
