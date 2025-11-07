@@ -3,11 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 07 Nov 2025 13:28:10 GMT</lastBuildDate>
+<lastBuildDate>Fri, 07 Nov 2025 13:46:06 GMT</lastBuildDate>
 <item>
-<title><![CDATA[Explosion at mosque in Indonesian capital injures 54 people]]></title>
+<title><![CDATA[Britain removes sanctions on Syria's president]]></title>
+<link>https://bdnews24.com/world/6edb5e833d04</link>
+<pubDate>Fri, 07 Nov 2025 13:42:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Student suspected in Indonesian mosque blasts]]></title>
 <link>https://bdnews24.com/world/158a1d41e812</link>
-<pubDate>Fri, 07 Nov 2025 12:40:46 -0000</pubDate>
+<pubDate>Fri, 07 Nov 2025 13:27:03 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -20,12 +26,6 @@
 <title><![CDATA[Trump says Kazakhstan to join Abraham Accords]]></title>
 <link>https://bdnews24.com/world/6fd7c26d5ed6</link>
 <pubDate>Fri, 07 Nov 2025 07:39:14 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US flight cuts send airlines, travellers scrambling]]></title>
-<link>https://bdnews24.com/aviation/74cadef8665e</link>
-<pubDate>Fri, 07 Nov 2025 05:20:18 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
