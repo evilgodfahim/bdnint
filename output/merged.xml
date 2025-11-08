@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 08 Nov 2025 15:37:45 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Nov 2025 16:22:06 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Russia strikes Ukraine energy sites, 3 dead]]></title>
+<link>https://bdnews24.com/world/46b2b5e6a5f7</link>
+<pubDate>Sat, 08 Nov 2025 16:22:05 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Flight operations normal after glitch at Delhi airport]]></title>
 <link>https://bdnews24.com/neighbours/4663c27732de</link>
@@ -23,15 +29,15 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US hit with second day of flight cuts]]></title>
-<link>https://bdnews24.com/world/americas/5bea85d51514</link>
-<pubDate>Sat, 08 Nov 2025 13:09:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Fire at Bosnia home for the elderly kills at least 10]]></title>
 <link>https://bdnews24.com/world/europe/ddd858ad483e</link>
 <pubDate>Wed, 05 Nov 2025 05:00:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US hit with second day of flight cuts]]></title>
+<link>https://bdnews24.com/world/americas/5bea85d51514</link>
+<pubDate>Sat, 08 Nov 2025 13:05:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
