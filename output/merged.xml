@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 08 Nov 2025 21:36:43 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Nov 2025 22:16:40 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Work under way on Putin nuclear test order: Lavrov]]></title>
+<link>https://bdnews24.com/world/16b266da722a</link>
+<pubDate>Sat, 08 Nov 2025 22:16:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Russia attacks Ukraine energy facilities]]></title>
 <link>https://bdnews24.com/world/46b2b5e6a5f7</link>
@@ -23,12 +29,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Witnesses describe civilian killings in Sudan's al-Fashir]]></title>
-<link>https://bdnews24.com/world/africa/58d7be0b0d44</link>
-<pubDate>Sat, 08 Nov 2025 13:24:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Fire at Bosnia home for the elderly kills at least 10]]></title>
 <link>https://bdnews24.com/world/europe/ddd858ad483e</link>
 <pubDate>Wed, 05 Nov 2025 05:00:13 -0000</pubDate>
@@ -38,6 +38,12 @@
 <title><![CDATA[US hit with second day of flight cuts]]></title>
 <link>https://bdnews24.com/world/americas/5bea85d51514</link>
 <pubDate>Sat, 08 Nov 2025 13:05:56 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Witnesses describe civilian killings in Sudan's al-Fashir]]></title>
+<link>https://bdnews24.com/world/africa/58d7be0b0d44</link>
+<pubDate>Sat, 08 Nov 2025 12:50:56 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
