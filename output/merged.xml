@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 08 Nov 2025 06:27:33 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Nov 2025 06:48:15 GMT</lastBuildDate>
 <item>
 <title><![CDATA[World food prices drop again in October: FAO]]></title>
 <link>https://bdnews24.com/world/64c0543e431c</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[India sets up Army base, military station along Bangladesh border]]></title>
+<link>https://bdnews24.com/neighbours/530657b3f131</link>
+<pubDate>Sat, 08 Nov 2025 06:43:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[8 killed in train collision in central India]]></title>
 <link>https://bdnews24.com/neighbours/b87302d4cf12</link>
 <pubDate>Fri, 07 Nov 2025 10:44:22 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[India launches first heavy satellite aboard ‘Bahubali’ rocket]]></title>
 <link>https://bdnews24.com/neighbours/26436d2a3e71</link>
 <pubDate>Mon, 03 Nov 2025 04:33:09 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Indus treaty halt puts Pakistan at severe risk: ETR]]></title>
-<link>https://bdnews24.com/neighbours/99433607ad1d</link>
-<pubDate>Sun, 02 Nov 2025 16:21:28 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
