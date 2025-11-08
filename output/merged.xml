@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 08 Nov 2025 13:39:42 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Nov 2025 14:16:56 GMT</lastBuildDate>
 <item>
 <title><![CDATA[China urges Dutch action on Nexperia crisis]]></title>
 <link>https://bdnews24.com/world/e86309c18354</link>
@@ -53,6 +53,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[2 militants killed in Jammu and Kashmir's Kupwara shooting]]></title>
+<link>https://bdnews24.com/neighbours/32bc2dc27f7b</link>
+<pubDate>Sat, 08 Nov 2025 13:40:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[India sets up Army base, military station along Bangladesh border]]></title>
 <link>https://bdnews24.com/neighbours/530657b3f131</link>
 <pubDate>Sat, 08 Nov 2025 06:43:19 -0000</pubDate>
@@ -68,12 +74,6 @@
 <title><![CDATA[Pakistan eyes 2026 launch for first Chinese sub in $5bn arms deal]]></title>
 <link>https://bdnews24.com/neighbours/6e1c268920dc</link>
 <pubDate>Tue, 04 Nov 2025 16:24:52 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India launches first heavy satellite aboard ‘Bahubali’ rocket]]></title>
-<link>https://bdnews24.com/neighbours/26436d2a3e71</link>
-<pubDate>Mon, 03 Nov 2025 04:33:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
