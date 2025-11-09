@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 09 Nov 2025 08:22:46 GMT</lastBuildDate>
+<lastBuildDate>Sun, 09 Nov 2025 08:42:06 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Positive progress on US shutdown: Senate majority leader]]></title>
 <link>https://bdnews24.com/world/655f6fbafdf9</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Flight operations normal after glitch at Delhi airport]]></title>
+<link>https://bdnews24.com/neighbours/4663c27732de</link>
+<pubDate>Sun, 09 Nov 2025 08:36:44 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[2 militants killed in Jammu and Kashmir's Kupwara shooting]]></title>
 <link>https://bdnews24.com/neighbours/32bc2dc27f7b</link>
 <pubDate>Sat, 08 Nov 2025 13:40:26 -0000</pubDate>
@@ -74,12 +80,6 @@
 <title><![CDATA[8 killed in train collision in central India]]></title>
 <link>https://bdnews24.com/neighbours/b87302d4cf12</link>
 <pubDate>Fri, 07 Nov 2025 10:44:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan eyes 2026 launch for first Chinese sub in $5bn arms deal]]></title>
-<link>https://bdnews24.com/neighbours/6e1c268920dc</link>
-<pubDate>Tue, 04 Nov 2025 16:24:52 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
