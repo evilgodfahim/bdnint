@@ -3,29 +3,29 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 10 Nov 2025 15:42:57 GMT</lastBuildDate>
+<lastBuildDate>Mon, 10 Nov 2025 16:27:49 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Rubio heads to Canada for G7 meeting on Ukraine, Gaza, trade]]></title>
+<link>https://bdnews24.com/world/5bb840f307a2</link>
+<pubDate>Mon, 10 Nov 2025 16:27:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[France's Sarkozy back home after court release]]></title>
+<link>https://bdnews24.com/world/9d01f3f8cbd0</link>
+<pubDate>Mon, 10 Nov 2025 16:12:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US strike kills 6 on suspected drug ships]]></title>
+<link>https://bdnews24.com/world/9d1f7deb7cce</link>
+<pubDate>Mon, 10 Nov 2025 15:57:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Kremlin says it wants war to end but peace process is 'stalled']]></title>
 <link>https://bdnews24.com/world/d6a5889542c4</link>
 <pubDate>Mon, 10 Nov 2025 14:44:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Russian musician jailed for anti-Kremlin songs detained again on release]]></title>
-<link>https://bdnews24.com/world/c0b13aed660a</link>
-<pubDate>Mon, 10 Nov 2025 12:27:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Who was Suharto, Indonesia's newest 'national hero'?]]></title>
-<link>https://bdnews24.com/world/south-east-asia/092d62ae9ac4</link>
-<pubDate>Mon, 10 Nov 2025 10:46:21 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Indonesia grants national hero status to late president Suharto]]></title>
-<link>https://bdnews24.com/world/south-east-asia/b92390b93d5e</link>
-<pubDate>Mon, 10 Nov 2025 07:19:45 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,9 +53,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Who was Suharto, Indonesia's newest 'national hero'?]]></title>
+<link>https://bdnews24.com/world/south-east-asia/092d62ae9ac4</link>
+<pubDate>Mon, 10 Nov 2025 07:19:46 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[3rd body recovered after S Korea power plant collapse]]></title>
 <link>https://bdnews24.com/world/asia-pacific/1af719a31177</link>
 <pubDate>Sun, 09 Nov 2025 04:06:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[New Delhi police detain dozens in anti-pollution protests]]></title>
+<link>https://bdnews24.com/neighbours/1737e021fe2b</link>
+<pubDate>Mon, 10 Nov 2025 16:27:49 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -74,12 +86,6 @@
 <title><![CDATA[2 militants killed in Jammu and Kashmir's Kupwara shooting]]></title>
 <link>https://bdnews24.com/neighbours/32bc2dc27f7b</link>
 <pubDate>Sat, 08 Nov 2025 13:40:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India sets up Army base, military station along Bangladesh border]]></title>
-<link>https://bdnews24.com/neighbours/530657b3f131</link>
-<pubDate>Sat, 08 Nov 2025 06:43:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
