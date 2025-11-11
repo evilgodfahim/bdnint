@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 11 Nov 2025 20:22:02 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Nov 2025 20:42:03 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Turkish plane crashes in Georgia with 20 aboard]]></title>
 <link>https://bdnews24.com/world/e5b8659d18b0</link>
@@ -65,6 +65,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Modi expands energy ties with Bhutan]]></title>
+<link>https://bdnews24.com/neighbours/615e36e05a4e</link>
+<pubDate>Tue, 11 Nov 2025 20:42:03 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistan suicide bombing kills 12]]></title>
 <link>https://bdnews24.com/world/e78eb497adfc</link>
 <pubDate>Tue, 11 Nov 2025 19:38:01 -0000</pubDate>
@@ -80,12 +86,6 @@
 <title><![CDATA[Delhi blast being probed under anti-terror law: media]]></title>
 <link>https://bdnews24.com/neighbours/56fa8eafd706</link>
 <pubDate>Tue, 11 Nov 2025 08:27:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[8 killed in Delhi car explosion]]></title>
-<link>https://bdnews24.com/neighbours/275f8294b938</link>
-<pubDate>Tue, 11 Nov 2025 04:29:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
