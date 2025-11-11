@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 11 Nov 2025 10:22:59 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Nov 2025 10:46:37 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Iraqis vote in election they expect to bring little reform]]></title>
 <link>https://bdnews24.com/world/middle-east/221bbe899e0c</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Modi vows not to spare those behind Delhi car blast]]></title>
+<link>https://bdnews24.com/neighbours/37e2dbbee85c</link>
+<pubDate>Tue, 11 Nov 2025 10:46:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Delhi blast being probed under anti-terror law: media]]></title>
 <link>https://bdnews24.com/neighbours/56fa8eafd706</link>
 <pubDate>Tue, 11 Nov 2025 08:27:12 -0000</pubDate>
@@ -74,12 +80,6 @@
 <title><![CDATA[New Delhi police detain dozens in anti-pollution protests]]></title>
 <link>https://bdnews24.com/neighbours/1737e021fe2b</link>
 <pubDate>Mon, 10 Nov 2025 16:27:49 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Earthquake of magnitude 6.07 strikes India's Andaman Islands]]></title>
-<link>https://bdnews24.com/neighbours/d1e663119a6e</link>
-<pubDate>Mon, 10 Nov 2025 11:35:09 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
