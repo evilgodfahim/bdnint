@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 11 Nov 2025 03:56:46 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Nov 2025 04:29:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[US Senate passes bill to end government shutdown]]></title>
 <link>https://bdnews24.com/world/americas/935bbf46d2f4</link>
@@ -35,9 +35,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Over 1,500 US flights cancelled amid shutdown]]></title>
-<link>https://bdnews24.com/world/americas/4196620474af</link>
-<pubDate>Mon, 10 Nov 2025 15:42:57 -0000</pubDate>
+<title><![CDATA[Trump threatens air traffic controllers to return to work]]></title>
+<link>https://bdnews24.com/aviation/4131fc49a0a5</link>
+<pubDate>Tue, 11 Nov 2025 04:20:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,15 +53,21 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Who was Suharto, Indonesia's newest 'national hero'?]]></title>
-<link>https://bdnews24.com/world/south-east-asia/092d62ae9ac4</link>
-<pubDate>Mon, 10 Nov 2025 07:19:46 -0000</pubDate>
+<title><![CDATA[Malaysia searches for Rohingya after boat sinks, toll hits 21]]></title>
+<link>https://bdnews24.com/world/south-east-asia/9f73d34d49a5</link>
+<pubDate>Tue, 11 Nov 2025 04:05:04 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
 <title><![CDATA[3rd body recovered after S Korea power plant collapse]]></title>
 <link>https://bdnews24.com/world/asia-pacific/1af719a31177</link>
 <pubDate>Sun, 09 Nov 2025 04:06:02 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[8 killed in Delhi car explosion]]></title>
+<link>https://bdnews24.com/neighbours/275f8294b938</link>
+<pubDate>Tue, 11 Nov 2025 04:29:19 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -80,12 +86,6 @@
 <title><![CDATA[Flight operations normal after glitch at Delhi airport]]></title>
 <link>https://bdnews24.com/neighbours/4663c27732de</link>
 <pubDate>Sun, 09 Nov 2025 08:36:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[2 militants killed in Jammu and Kashmir's Kupwara shooting]]></title>
-<link>https://bdnews24.com/neighbours/32bc2dc27f7b</link>
-<pubDate>Sat, 08 Nov 2025 13:40:26 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
