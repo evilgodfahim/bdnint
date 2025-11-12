@@ -3,7 +3,25 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 12 Nov 2025 11:39:22 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Nov 2025 12:42:37 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Trump asks Israeli president to pardon Netanyahu]]></title>
+<link>https://bdnews24.com/world/middle-east/d5e4b4efd82c</link>
+<pubDate>Wed, 12 Nov 2025 12:36:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[42 migrants presumed dead after boat capsises off Libya]]></title>
+<link>https://bdnews24.com/world/0899ea2b238a</link>
+<pubDate>Wed, 12 Nov 2025 12:21:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Australia, Indonesia announce new security treaty]]></title>
+<link>https://bdnews24.com/world/d9722fd11b22</link>
+<pubDate>Wed, 12 Nov 2025 12:06:52 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[9 in 10 Afghan families face hunger, debt: UNDP]]></title>
 <link>https://bdnews24.com/world/1fd8ad9c2b67</link>
@@ -11,27 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Top US court pauses order requiring Trump to fund food aid]]></title>
-<link>https://bdnews24.com/world/americas/eab184146ea3</link>
-<pubDate>Wed, 12 Nov 2025 07:05:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Israel blocking 1mn syringes for Gaza children: UNICEF]]></title>
-<link>https://bdnews24.com/world/middle-east/8bf23867542f</link>
-<pubDate>Wed, 12 Nov 2025 04:26:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[US airlines cancel 1,200 flights Tuesday amid shutdown]]></title>
-<link>https://bdnews24.com/aviation/01d6d62243ae</link>
-<pubDate>Wed, 12 Nov 2025 04:11:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Germany's Merz faces plunge in popularity]]></title>
-<link>https://bdnews24.com/world/europe/f79f8ddc6f69</link>
-<pubDate>Tue, 11 Nov 2025 15:21:52 -0000</pubDate>
+<title><![CDATA[Ukrainians turn to tattoos to ease grief from war]]></title>
+<link>https://bdnews24.com/world/europe/8c598246a0ba</link>
+<pubDate>Wed, 12 Nov 2025 12:42:37 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -59,6 +59,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Pakistan blames India for Islamabad bombing]]></title>
+<link>https://bdnews24.com/neighbours/7ed3fe7723eb</link>
+<pubDate>Wed, 12 Nov 2025 12:08:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Modi expands energy ties with Bhutan]]></title>
 <link>https://bdnews24.com/neighbours/615e36e05a4e</link>
 <pubDate>Tue, 11 Nov 2025 20:42:03 -0000</pubDate>
@@ -74,12 +80,6 @@
 <title><![CDATA[Modi vows not to spare those behind Delhi car blast]]></title>
 <link>https://bdnews24.com/neighbours/37e2dbbee85c</link>
 <pubDate>Tue, 11 Nov 2025 10:46:36 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Delhi blast being probed under anti-terror law: media]]></title>
-<link>https://bdnews24.com/neighbours/56fa8eafd706</link>
-<pubDate>Tue, 11 Nov 2025 08:27:12 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
