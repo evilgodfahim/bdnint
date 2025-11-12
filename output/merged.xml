@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 12 Nov 2025 16:52:29 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Nov 2025 17:19:27 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Epstein emails claim Trump ‘knew about the girls’]]></title>
 <link>https://bdnews24.com/world/bc856ee3689c</link>
@@ -65,6 +65,18 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Dhaka summons Indian diplomat over Hasina’s interviews]]></title>
+<link>https://bdnews24.com/bangladesh/cca5a3392c47</link>
+<pubDate>Wed, 12 Nov 2025 17:19:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[India probes link between Delhi car blast, Kashmir arrests]]></title>
+<link>https://bdnews24.com/neighbours/56f8542175c5</link>
+<pubDate>Wed, 12 Nov 2025 17:04:27 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistan blames India for Islamabad bombing]]></title>
 <link>https://bdnews24.com/neighbours/7ed3fe7723eb</link>
 <pubDate>Wed, 12 Nov 2025 12:08:16 -0000</pubDate>
@@ -74,18 +86,6 @@
 <title><![CDATA[Modi expands energy ties with Bhutan]]></title>
 <link>https://bdnews24.com/neighbours/615e36e05a4e</link>
 <pubDate>Tue, 11 Nov 2025 20:42:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan suicide bombing kills 12]]></title>
-<link>https://bdnews24.com/world/e78eb497adfc</link>
-<pubDate>Tue, 11 Nov 2025 19:38:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Modi vows not to spare those behind Delhi car blast]]></title>
-<link>https://bdnews24.com/neighbours/37e2dbbee85c</link>
-<pubDate>Tue, 11 Nov 2025 10:46:36 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
