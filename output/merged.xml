@@ -3,35 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 13 Nov 2025 14:20:07 GMT</lastBuildDate>
-<item>
-<title><![CDATA[US govt opens up but political divisions remain]]></title>
-<link>https://bdnews24.com/world/365226b491e3</link>
-<pubDate>Thu, 13 Nov 2025 13:33:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[France commemorates Paris attack victims]]></title>
-<link>https://bdnews24.com/world/86b9bd52de1b</link>
-<pubDate>Thu, 13 Nov 2025 13:18:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Rubio dismisses criticism of US Caribbean strikes]]></title>
-<link>https://bdnews24.com/world/americas/dc001b275984</link>
-<pubDate>Thu, 13 Nov 2025 13:03:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Epstein emails say Trump 'knew about the girls']]></title>
-<link>https://bdnews24.com/world/americas/9a0802c7b844</link>
-<pubDate>Thu, 13 Nov 2025 04:33:05 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
+<lastBuildDate>Thu, 13 Nov 2025 14:41:29 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Ukrainians turn to tattoos to ease grief from war]]></title>
 <link>https://bdnews24.com/world/europe/8c598246a0ba</link>
 <pubDate>Wed, 12 Nov 2025 12:42:37 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[US govt opens up but political divisions remain]]></title>
+<link>https://bdnews24.com/world/365226b491e3</link>
+<pubDate>Thu, 13 Nov 2025 14:20:07 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -56,30 +38,6 @@
 <title><![CDATA[2 dead, 18 hurt in S Korea after truck crashes into market]]></title>
 <link>https://bdnews24.com/world/asia-pacific/734e5c80594a</link>
 <pubDate>Thu, 13 Nov 2025 08:27:32 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India asks CITES to not curb its animal imports amid Ambani zoo furore]]></title>
-<link>https://bdnews24.com/neighbours/e984f3793d58</link>
-<pubDate>Thu, 13 Nov 2025 09:43:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Delhi blast was 'terror incident': India]]></title>
-<link>https://bdnews24.com/neighbours/04306ddd7332</link>
-<pubDate>Thu, 13 Nov 2025 04:21:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Dhaka summons Indian diplomat over Hasina’s interviews]]></title>
-<link>https://bdnews24.com/bangladesh/cca5a3392c47</link>
-<pubDate>Wed, 12 Nov 2025 17:19:27 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India probes link between Delhi car blast, Kashmir arrests]]></title>
-<link>https://bdnews24.com/neighbours/56f8542175c5</link>
-<pubDate>Wed, 12 Nov 2025 17:04:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
