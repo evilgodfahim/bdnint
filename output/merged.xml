@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 28 Nov 2025 09:21:28 GMT</lastBuildDate>
+<lastBuildDate>Fri, 28 Nov 2025 09:41:41 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Rescuers ramp up efforts as Southeast Asia flood toll hits 161]]></title>
 <link>https://bdnews24.com/world/3d5858eb98db</link>
@@ -29,6 +29,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[UAE halts visas for Pakistanis]]></title>
+<link>https://bdnews24.com/neighbours/9e6a9a403c18</link>
+<pubDate>Fri, 28 Nov 2025 09:41:41 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[Imran Khan’s party seeks prison visit amid health concerns]]></title>
 <link>https://bdnews24.com/neighbours/c492371074a7</link>
 <pubDate>Thu, 27 Nov 2025 18:50:16 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Sindh may one day be part of India again: Rajnath Singh]]></title>
 <link>https://bdnews24.com/neighbours/520e047b4e29</link>
 <pubDate>Thu, 27 Nov 2025 01:38:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Suicide bombers kill 3 at Pakistan paramilitary HQ]]></title>
-<link>https://bdnews24.com/neighbours/475866d2f8cc</link>
-<pubDate>Thu, 27 Nov 2025 01:23:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
