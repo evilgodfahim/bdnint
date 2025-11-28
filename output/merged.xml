@@ -3,7 +3,19 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 28 Nov 2025 14:43:08 GMT</lastBuildDate>
+<lastBuildDate>Fri, 28 Nov 2025 15:21:22 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Chinese nationals die in Tajik-Afghan border attack]]></title>
+<link>https://bdnews24.com/world/65978aadbfad</link>
+<pubDate>Fri, 28 Nov 2025 15:21:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Israeli raid in southern Syria leaves 13 dead]]></title>
+<link>https://bdnews24.com/world/middle-east/e44791e4d236</link>
+<pubDate>Fri, 28 Nov 2025 15:06:21 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Zelensky’s ‘trusted aide’ caught in graft probe]]></title>
 <link>https://bdnews24.com/world/9406c9a9bb80</link>
@@ -17,15 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[How floods devastated one of Thailand's largest cities]]></title>
-<link>https://bdnews24.com/world/edf0d4a9e783</link>
-<pubDate>Fri, 28 Nov 2025 13:01:22 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Trump hints at scrapping income tax entirely over tariff revenue]]></title>
-<link>https://bdnews24.com/world/51dc81e5994d</link>
-<pubDate>Fri, 28 Nov 2025 10:44:58 -0000</pubDate>
+<title><![CDATA[Putin, Modi to discuss ‘privileged partnership’]]></title>
+<link>https://bdnews24.com/neighbours/9a5bcdf0b655</link>
+<pubDate>Fri, 28 Nov 2025 15:21:22 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[India lodges protest with China over woman's detention]]></title>
 <link>https://bdnews24.com/neighbours/beb14856385c</link>
 <pubDate>Thu, 27 Nov 2025 16:26:11 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Sindh may one day be part of India again: Rajnath Singh]]></title>
-<link>https://bdnews24.com/neighbours/520e047b4e29</link>
-<pubDate>Thu, 27 Nov 2025 01:38:30 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
