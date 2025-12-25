@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 25 Dec 2025 09:44:23 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Dec 2025 10:22:54 GMT</lastBuildDate>
 <item>
 <title><![CDATA[White House orders military to focus on 'quarantine' of Venezuela oil]]></title>
 <link>https://bdnews24.com/world/f0d438fba1ad</link>
@@ -26,6 +26,30 @@
 <title><![CDATA[Israel to respond to Hamas 'violation' of Gaza truce]]></title>
 <link>https://bdnews24.com/world/middle-east/cc15504c2098</link>
 <pubDate>Thu, 25 Dec 2025 08:59:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Delhi police clash with protesters outside Bangladesh High Commission]]></title>
+<link>https://bdnews24.com/neighbours/8b5c5516dadd</link>
+<pubDate>Thu, 25 Dec 2025 10:22:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[7 elephants killed in India train accident]]></title>
+<link>https://bdnews24.com/neighbours/cab474a82bcb</link>
+<pubDate>Thu, 25 Dec 2025 10:07:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[India signs trade pact with Oman]]></title>
+<link>https://bdnews24.com/business/919484f5da1f</link>
+<pubDate>Thu, 25 Dec 2025 09:52:54 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Victory Day posts by Modi, Rahul omit Bangladesh]]></title>
+<link>https://bdnews24.com/neighbours/191ba25fde93</link>
+<pubDate>Thu, 25 Dec 2025 09:37:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
