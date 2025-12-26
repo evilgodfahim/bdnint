@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 26 Dec 2025 14:44:28 GMT</lastBuildDate>
+<lastBuildDate>Fri, 26 Dec 2025 15:21:40 GMT</lastBuildDate>
+<item>
+<title><![CDATA[S Korea prosecutor seeks 10-year jail for ex-president Yoon]]></title>
+<link>https://bdnews24.com/world/35524a9b52a8</link>
+<pubDate>Fri, 26 Dec 2025 15:21:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA['A lot' can be decided ahead of Trump meeting: Zelensky]]></title>
 <link>https://bdnews24.com/world/94a7f9445ca9</link>
@@ -23,9 +29,9 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[US says it struck IS militants in northwest Nigeria]]></title>
-<link>https://bdnews24.com/world/e8d81cb85731</link>
-<pubDate>Fri, 26 Dec 2025 06:33:51 -0000</pubDate>
+<title><![CDATA[Myanmar to hold third phase of voting on Jan 25]]></title>
+<link>https://bdnews24.com/neighbours/60cca1c6ff64</link>
+<pubDate>Fri, 26 Dec 2025 15:21:40 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -44,12 +50,6 @@
 <title><![CDATA[7 elephants killed in India train accident]]></title>
 <link>https://bdnews24.com/neighbours/cab474a82bcb</link>
 <pubDate>Thu, 25 Dec 2025 10:07:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[India signs trade pact with Oman]]></title>
-<link>https://bdnews24.com/business/919484f5da1f</link>
-<pubDate>Thu, 25 Dec 2025 09:52:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
