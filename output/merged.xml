@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 27 Dec 2025 18:29:17 GMT</lastBuildDate>
+<lastBuildDate>Sat, 27 Dec 2025 18:52:20 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Russia downs 111 Ukrainian drones]]></title>
 <link>https://bdnews24.com/world/c8a99321ce23</link>
@@ -29,6 +29,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Myanmar goes to the polls amid civil war, humanitarian crisis]]></title>
+<link>https://bdnews24.com/neighbours/904b5a162a33</link>
+<pubDate>Sat, 27 Dec 2025 18:52:20 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title><![CDATA[India’s water crisis hits beverage giants]]></title>
 <link>https://bdnews24.com/neighbours/fb8538959133</link>
 <pubDate>Sat, 27 Dec 2025 04:52:09 -0000</pubDate>
@@ -44,12 +50,6 @@
 <title><![CDATA[Protests flare outside Bangladeshi missions in India]]></title>
 <link>https://bdnews24.com/neighbours/c18c1c1e9239</link>
 <pubDate>Fri, 26 Dec 2025 04:54:29 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Delhi police clash with protesters outside Bangladesh High Commission]]></title>
-<link>https://bdnews24.com/neighbours/8b5c5516dadd</link>
-<pubDate>Thu, 25 Dec 2025 10:22:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 </channel></rss>
